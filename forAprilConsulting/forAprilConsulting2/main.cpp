@@ -69,7 +69,8 @@ int main() {
 				inSum = inSum + arr[i];
 			}
 		}
-		cout << "sum of the odd is: " << inSum << endl;		break;
+		cout << "sum of the odd is: " << inSum << endl;		
+		break;
 	default:
 		cout << "invalid input\n";
 	}
