@@ -19,7 +19,10 @@ but as i see it, its better to know which problems this frameworks and engines s
 but there were my solutions and i got to understand (and feel) the problems. I strongly believe, this is the best and most what you can get out of such an exersice without any steakholder, then myselfe.
 
 A towerdefence-game has three major challenges:
-  1. An editor, to build your tower, free on a grid (in my case: 
+  1. An editor, to build your tower, free on a 22X9 gridbox, with a preview of the tower
+  2. Proper connection between the tower and there targets, for proper hits
+  3.Pathfinding of the enemys
 
+Unfortunately the three days wherend enough to reach the pathfining task (allthough it was the one, which i was looking forward to), but i'm strongly motivatet to finish the projekt sometime.
 
-The project (not in a final form) is on my GitHub to inspect. I think
+The project (sadly unfished, with only flying enemys) is on my GitHub to inspect. Be invited to check it out by your selfe.
